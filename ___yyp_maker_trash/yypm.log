@@ -1,0 +1,719 @@
+You are using YYP Maker v1.1.4, released in 31-03-2022
+
+
+
+[19-04-2022 07:55:53] Initialized GameMaker Project: atmhpa.yyp
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/animcurves
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/extensions
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/fonts
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/notes
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects
+[19-04-2022 07:55:53] Checking obj_start
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_start
+[19-04-2022 07:55:53] Checking obj_retry
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_retry
+[19-04-2022 07:55:53] Checking obj_quit
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_quit
+[19-04-2022 07:55:53] Checking obj_Q3_d
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_d
+[19-04-2022 07:55:53] Checking obj_Q3_c
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_c
+[19-04-2022 07:55:53] Checking obj_Q3_b
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_b
+[19-04-2022 07:55:53] Checking obj_Q3_a
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_a
+[19-04-2022 07:55:53] Checking obj_Q3
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3
+[19-04-2022 07:55:53] Checking obj_Q2_d
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_d
+[19-04-2022 07:55:53] Checking obj_Q2_c
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_c
+[19-04-2022 07:55:53] Checking obj_Q2_b
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_b
+[19-04-2022 07:55:53] Checking obj_Q2_a
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_a
+[19-04-2022 07:55:53] Checking obj_Q2
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2
+[19-04-2022 07:55:53] Checking obj_Q1_d
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_d
+[19-04-2022 07:55:53] Checking obj_Q1_c
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_c
+[19-04-2022 07:55:53] Checking obj_Q1_b
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_b
+[19-04-2022 07:55:53] Checking obj_Q1_a
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_a
+[19-04-2022 07:55:53] Checking obj_Q1
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1
+[19-04-2022 07:55:53] Checking obj_banner
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_banner
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_banner
+[19-04-2022 07:55:53] Checking obj_banner.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_banner/obj_banner.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_banner/obj_banner.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Menu" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_banner/obj_banner.yy"
+[19-04-2022 07:55:53] Found Object: obj_banner
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1
+[19-04-2022 07:55:53] Checking obj_Q1.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1/obj_Q1.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1/obj_Q1.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q1" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1/obj_Q1.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q1
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_a
+[19-04-2022 07:55:53] Checking obj_Q1_a.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_a/obj_Q1_a.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_a/obj_Q1_a.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q1" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_a/obj_Q1_a.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q1_a
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_b
+[19-04-2022 07:55:53] Checking obj_Q1_b.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_b/obj_Q1_b.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_b/obj_Q1_b.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q1" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_b/obj_Q1_b.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q1_b
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_c
+[19-04-2022 07:55:53] Checking obj_Q1_c.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_c/obj_Q1_c.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_c/obj_Q1_c.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q1" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_c/obj_Q1_c.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q1_c
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_d
+[19-04-2022 07:55:53] Checking obj_Q1_d.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_d/obj_Q1_d.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_d/obj_Q1_d.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q1" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q1_d/obj_Q1_d.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q1_d
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2
+[19-04-2022 07:55:53] Checking obj_Q2.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2/obj_Q2.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2/obj_Q2.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q2" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2/obj_Q2.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q2
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_a
+[19-04-2022 07:55:53] Checking obj_Q2_a.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_a/obj_Q2_a.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_a/obj_Q2_a.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q2" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_a/obj_Q2_a.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q2_a
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_b
+[19-04-2022 07:55:53] Checking obj_Q2_b.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_b/obj_Q2_b.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_b/obj_Q2_b.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q2" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_b/obj_Q2_b.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q2_b
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_c
+[19-04-2022 07:55:53] Checking obj_Q2_c.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_c/obj_Q2_c.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_c/obj_Q2_c.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q2" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_c/obj_Q2_c.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q2_c
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_d
+[19-04-2022 07:55:53] Checking obj_Q2_d.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_d/obj_Q2_d.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_d/obj_Q2_d.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q2" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q2_d/obj_Q2_d.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q2_d
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3
+[19-04-2022 07:55:53] Checking obj_Q3.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3/obj_Q3.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3/obj_Q3.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q3" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3/obj_Q3.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q3
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_a
+[19-04-2022 07:55:53] Checking obj_Q3_a.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_a/obj_Q3_a.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_a/obj_Q3_a.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q3" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_a/obj_Q3_a.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q3_a
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_b
+[19-04-2022 07:55:53] Checking obj_Q3_b.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_b/obj_Q3_b.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_b/obj_Q3_b.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q3" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_b/obj_Q3_b.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q3_b
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_c
+[19-04-2022 07:55:53] Checking obj_Q3_c.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_c/obj_Q3_c.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_c/obj_Q3_c.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q3" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_c/obj_Q3_c.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q3_c
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_d
+[19-04-2022 07:55:53] Checking obj_Q3_d.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_d/obj_Q3_d.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_d/obj_Q3_d.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Questions/Q3" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_Q3_d/obj_Q3_d.yy"
+[19-04-2022 07:55:53] Found Object: obj_Q3_d
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_quit
+[19-04-2022 07:55:53] Checking obj_quit.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_quit/obj_quit.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_quit/obj_quit.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Menu" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_quit/obj_quit.yy"
+[19-04-2022 07:55:53] Found Object: obj_quit
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Mouse_11.gml
+[19-04-2022 07:55:53] Checking Mouse_10.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_retry
+[19-04-2022 07:55:53] Checking obj_retry.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_retry/obj_retry.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_retry/obj_retry.yy
+[19-04-2022 07:55:53] Par: "folders/Objects/Menu" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_retry/obj_retry.yy"
+[19-04-2022 07:55:53] Found Object: obj_retry
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Mouse_11.gml
+[19-04-2022 07:55:53] Checking Mouse_10.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/objects/obj_start
+[19-04-2022 07:55:53] Checking Mouse_4.gml
+[19-04-2022 07:55:53] Checking Mouse_11.gml
+[19-04-2022 07:55:53] Checking Mouse_10.gml
+[19-04-2022 07:55:53] Checking Draw_0.gml
+[19-04-2022 07:55:53] Checking Create_0.gml
+[19-04-2022 07:55:53] Checking Alarm_0.gml
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options
+[19-04-2022 07:55:53] Checking xboxseriesxs
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/xboxseriesxs
+[19-04-2022 07:55:53] Checking xboxone
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/xboxone
+[19-04-2022 07:55:53] Checking windowsuap
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/windowsuap
+[19-04-2022 07:55:53] Checking windows
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/windows
+[19-04-2022 07:55:53] Checking wasm
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/wasm
+[19-04-2022 07:55:53] Checking tvos
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/tvos
+[19-04-2022 07:55:53] Checking switch
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/switch
+[19-04-2022 07:55:53] Checking ps5
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/ps5
+[19-04-2022 07:55:53] Checking ps4
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/ps4
+[19-04-2022 07:55:53] Checking operagx
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/operagx
+[19-04-2022 07:55:53] Checking main
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/main
+[19-04-2022 07:55:53] Checking mac
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/mac
+[19-04-2022 07:55:53] Checking linux
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/linux
+[19-04-2022 07:55:53] Checking ios
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/ios
+[19-04-2022 07:55:53] Checking html5
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/html5
+[19-04-2022 07:55:53] Checking android
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/android
+[19-04-2022 07:55:53] Checking amazonfire
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/amazonfire
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/amazonfire
+[19-04-2022 07:55:53] Checking options_amazonfire.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/amazonfire/options_amazonfire.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/amazonfire/options_amazonfire.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/android
+[19-04-2022 07:55:53] Checking options_android.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/android/options_android.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/android/options_android.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/html5
+[19-04-2022 07:55:53] Checking options_html5.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/html5/options_html5.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/html5/options_html5.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/ios
+[19-04-2022 07:55:53] Checking options_ios.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/ios/options_ios.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/ios/options_ios.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/linux
+[19-04-2022 07:55:53] Checking options_linux.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/linux/options_linux.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/linux/options_linux.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/mac
+[19-04-2022 07:55:53] Checking options_mac.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/mac/options_mac.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/mac/options_mac.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/main
+[19-04-2022 07:55:53] Checking options_main.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/main/options_main.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/main/options_main.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/operagx
+[19-04-2022 07:55:53] Checking options_operagx.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/operagx/options_operagx.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/operagx/options_operagx.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/ps4
+[19-04-2022 07:55:53] Checking options_ps4.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/ps4/options_ps4.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/ps4/options_ps4.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/ps5
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/switch
+[19-04-2022 07:55:53] Checking options_switch.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/switch/options_switch.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/switch/options_switch.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/tvos
+[19-04-2022 07:55:53] Checking options_tvos.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/tvos/options_tvos.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/tvos/options_tvos.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/wasm
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/windows
+[19-04-2022 07:55:53] Checking options_windows.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/windows/options_windows.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/windows/options_windows.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/windowsuap
+[19-04-2022 07:55:53] Checking options_windowsuap.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/windowsuap/options_windowsuap.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/windowsuap/options_windowsuap.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/xboxone
+[19-04-2022 07:55:53] Checking options_xboxone.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/xboxone/options_xboxone.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/xboxone/options_xboxone.yy
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/options/xboxseriesxs
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/paths
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms
+[19-04-2022 07:55:53] Checking titlescreen
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/titlescreen
+[19-04-2022 07:55:53] Checking Room1
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/Room1
+[19-04-2022 07:55:53] Checking room03
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room03
+[19-04-2022 07:55:53] Checking room02
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room02
+[19-04-2022 07:55:53] Checking room01
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room01
+[19-04-2022 07:55:53] Checking retry
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/retry
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/retry
+[19-04-2022 07:55:53] Checking retry.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/retry/retry.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/retry/retry.yy
+[19-04-2022 07:55:53] Par: "folders/Rooms/Menu" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/retry/retry.yy"
+[19-04-2022 07:55:53] Found Room: retry
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room01
+[19-04-2022 07:55:53] Checking room01.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room01/room01.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room01/room01.yy
+[19-04-2022 07:55:53] Par: "folders/Rooms/Game" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room01/room01.yy"
+[19-04-2022 07:55:53] Found Room: room01
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room02
+[19-04-2022 07:55:53] Checking room02.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room02/room02.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room02/room02.yy
+[19-04-2022 07:55:53] Par: "folders/Rooms/Game" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room02/room02.yy"
+[19-04-2022 07:55:53] Found Room: room02
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room03
+[19-04-2022 07:55:53] Checking room03.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room03/room03.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room03/room03.yy
+[19-04-2022 07:55:53] Par: "folders/Rooms/Game" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/room03/room03.yy"
+[19-04-2022 07:55:53] Found Room: room03
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/Room1
+[19-04-2022 07:55:53] Checking Room1.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/Room1/Room1.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/Room1/Room1.yy
+[19-04-2022 07:55:53] Par: "folders/Rooms" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/Room1/Room1.yy"
+[19-04-2022 07:55:53] Found Room: Room1
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/rooms/titlescreen
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/scripts
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sequences
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/shaders
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds
+[19-04-2022 07:55:53] Checking x_answer
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/x_answer
+[19-04-2022 07:55:53] Checking room1_5
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/room1_5
+[19-04-2022 07:55:53] Checking o_answer
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/o_answer
+[19-04-2022 07:55:53] Checking option
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/option
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/option
+[19-04-2022 07:55:53] Checking option.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/option/option.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/option/option.yy
+[19-04-2022 07:55:53] Par: "folders/Sounds/Menu" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/option/option.yy"
+[19-04-2022 07:55:53] Found Sound: option
+[19-04-2022 07:55:53] Checking option.mp3
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/o_answer
+[19-04-2022 07:55:53] Checking o_answer.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/o_answer/o_answer.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/o_answer/o_answer.yy
+[19-04-2022 07:55:53] Par: "folders/Sounds/Game" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/o_answer/o_answer.yy"
+[19-04-2022 07:55:53] Found Sound: o_answer
+[19-04-2022 07:55:53] Checking o_answer.mp3
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/room1_5
+[19-04-2022 07:55:53] Checking room1_5.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/room1_5/room1_5.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/room1_5/room1_5.yy
+[19-04-2022 07:55:53] Par: "folders/Sounds/Game" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/room1_5/room1_5.yy"
+[19-04-2022 07:55:53] Found Sound: room1_5
+[19-04-2022 07:55:53] Checking room1_5.mp3
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/x_answer
+[19-04-2022 07:55:53] Checking x_answer.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/x_answer/x_answer.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/x_answer/x_answer.yy
+[19-04-2022 07:55:53] Par: "folders/Sounds/Game" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sounds/x_answer/x_answer.yy"
+[19-04-2022 07:55:53] Found Sound: x_answer
+[19-04-2022 07:55:53] Checking x_answer.mp3
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites
+[19-04-2022 07:55:53] Checking spr_tryagain
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_tryagain
+[19-04-2022 07:55:53] Checking spr_titlescreen
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_titlescreen
+[19-04-2022 07:55:53] Checking spr_start_hover
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start_hover
+[19-04-2022 07:55:53] Checking spr_start
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start
+[19-04-2022 07:55:53] Checking spr_retry_hover
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry_hover
+[19-04-2022 07:55:53] Checking spr_retry
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry
+[19-04-2022 07:55:53] Checking spr_question
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_question
+[19-04-2022 07:55:53] Checking spr_OptD_x
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_x
+[19-04-2022 07:55:53] Checking spr_OptD_o
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_o
+[19-04-2022 07:55:53] Checking spr_OptD
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD
+[19-04-2022 07:55:53] Checking spr_OptC_x
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_x
+[19-04-2022 07:55:53] Checking spr_OptC_o
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_o
+[19-04-2022 07:55:53] Checking spr_OptC
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC
+[19-04-2022 07:55:53] Checking spr_OptB_x
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_x
+[19-04-2022 07:55:53] Checking spr_OptB_o
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_o
+[19-04-2022 07:55:53] Checking spr_OptB
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB
+[19-04-2022 07:55:53] Checking spr_OptA_x
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_x
+[19-04-2022 07:55:53] Checking spr_OptA_o
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_o
+[19-04-2022 07:55:53] Checking spr_OptA
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA
+[19-04-2022 07:55:53] Checking spr_gameplay
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_gameplay
+[19-04-2022 07:55:53] Checking spr_failure
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_failure
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_failure
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_failure/layers
+[19-04-2022 07:55:53] Checking d5401172-565e-4bf1-9cc9-2b130f9ae286.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_failure/layers
+[19-04-2022 07:55:53] Checking d5401172-565e-4bf1-9cc9-2b130f9ae286
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_failure/layers/d5401172-565e-4bf1-9cc9-2b130f9ae286
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_failure/layers/d5401172-565e-4bf1-9cc9-2b130f9ae286
+[19-04-2022 07:55:53] Checking 05fc233c-13ec-4050-af6c-7533d3340ae6.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_gameplay
+[19-04-2022 07:55:53] Checking spr_gameplay.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_gameplay/spr_gameplay.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_gameplay/spr_gameplay.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Menu/Bg" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_gameplay/spr_gameplay.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_gameplay
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_gameplay/layers
+[19-04-2022 07:55:53] Checking 610dd139-4ce6-4e7e-a6d3-f11414f10ae0.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_gameplay/layers
+[19-04-2022 07:55:53] Checking 610dd139-4ce6-4e7e-a6d3-f11414f10ae0
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_gameplay/layers/610dd139-4ce6-4e7e-a6d3-f11414f10ae0
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_gameplay/layers/610dd139-4ce6-4e7e-a6d3-f11414f10ae0
+[19-04-2022 07:55:53] Checking 4169de35-43d9-498d-a5ee-a646e17775fe.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA
+[19-04-2022 07:55:53] Checking spr_OptA.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA/spr_OptA.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA/spr_OptA.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game/spr_OptA" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA/spr_OptA.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_OptA
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA/layers
+[19-04-2022 07:55:53] Checking 3506356a-e785-476c-b597-fbb2622595ef.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA/layers
+[19-04-2022 07:55:53] Checking 3506356a-e785-476c-b597-fbb2622595ef
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA/layers/3506356a-e785-476c-b597-fbb2622595ef
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA/layers/3506356a-e785-476c-b597-fbb2622595ef
+[19-04-2022 07:55:53] Checking 729ff928-5a7e-4153-959e-4e940d21ad0b.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_o
+[19-04-2022 07:55:53] Checking spr_OptA_o.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_o/spr_OptA_o.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_o/spr_OptA_o.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game/spr_OptA" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_o/spr_OptA_o.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_OptA_o
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_o/layers
+[19-04-2022 07:55:53] Checking 06188f50-119b-451c-b76f-70664f38bd3e.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_o/layers
+[19-04-2022 07:55:53] Checking 06188f50-119b-451c-b76f-70664f38bd3e
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_o/layers/06188f50-119b-451c-b76f-70664f38bd3e
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_o/layers/06188f50-119b-451c-b76f-70664f38bd3e
+[19-04-2022 07:55:53] Checking 73e5e779-1c68-4829-820d-03fb7d8ee343.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_x
+[19-04-2022 07:55:53] Checking spr_OptA_x.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_x/spr_OptA_x.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_x/spr_OptA_x.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game/spr_OptA" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_x/spr_OptA_x.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_OptA_x
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_x/layers
+[19-04-2022 07:55:53] Checking d46ef45e-49ef-42c0-bbdc-faec8ac239ef.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_x/layers
+[19-04-2022 07:55:53] Checking d46ef45e-49ef-42c0-bbdc-faec8ac239ef
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_x/layers/d46ef45e-49ef-42c0-bbdc-faec8ac239ef
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptA_x/layers/d46ef45e-49ef-42c0-bbdc-faec8ac239ef
+[19-04-2022 07:55:53] Checking b15d156e-8fe9-47b8-82e1-4113f089a3fb.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB
+[19-04-2022 07:55:53] Checking spr_OptB.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB/spr_OptB.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB/spr_OptB.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game/spr_OptB" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB/spr_OptB.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_OptB
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB/layers
+[19-04-2022 07:55:53] Checking ffdde037-9c1f-4b8c-9c3a-2e8fcda56564.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB/layers
+[19-04-2022 07:55:53] Checking ffdde037-9c1f-4b8c-9c3a-2e8fcda56564
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB/layers/ffdde037-9c1f-4b8c-9c3a-2e8fcda56564
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB/layers/ffdde037-9c1f-4b8c-9c3a-2e8fcda56564
+[19-04-2022 07:55:53] Checking 1752f7b7-cb96-4fa5-acf5-217c57b0b164.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_o
+[19-04-2022 07:55:53] Checking spr_OptB_o.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_o/spr_OptB_o.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_o/spr_OptB_o.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game/spr_OptB" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_o/spr_OptB_o.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_OptB_o
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_o/layers
+[19-04-2022 07:55:53] Checking b07b7da3-76e5-463d-80da-679fb35587a9.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_o/layers
+[19-04-2022 07:55:53] Checking b07b7da3-76e5-463d-80da-679fb35587a9
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_o/layers/b07b7da3-76e5-463d-80da-679fb35587a9
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_o/layers/b07b7da3-76e5-463d-80da-679fb35587a9
+[19-04-2022 07:55:53] Checking 17918ffe-786d-4fe9-81fe-fec3c59bbafa.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_x
+[19-04-2022 07:55:53] Checking spr_OptB_x.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_x/spr_OptB_x.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_x/spr_OptB_x.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game/spr_OptB" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_x/spr_OptB_x.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_OptB_x
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_x/layers
+[19-04-2022 07:55:53] Checking 05b63191-5bda-4533-b741-a38652d6cee2.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_x/layers
+[19-04-2022 07:55:53] Checking 05b63191-5bda-4533-b741-a38652d6cee2
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_x/layers/05b63191-5bda-4533-b741-a38652d6cee2
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptB_x/layers/05b63191-5bda-4533-b741-a38652d6cee2
+[19-04-2022 07:55:53] Checking 4442a43d-77e3-4247-8c56-be5c3a5ec4f1.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC
+[19-04-2022 07:55:53] Checking spr_OptC.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC/spr_OptC.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC/spr_OptC.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game/spr_OptC" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC/spr_OptC.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_OptC
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC/layers
+[19-04-2022 07:55:53] Checking 5e231707-9f1a-4a87-9bf9-e499294d1910.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC/layers
+[19-04-2022 07:55:53] Checking 5e231707-9f1a-4a87-9bf9-e499294d1910
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC/layers/5e231707-9f1a-4a87-9bf9-e499294d1910
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC/layers/5e231707-9f1a-4a87-9bf9-e499294d1910
+[19-04-2022 07:55:53] Checking f3adf97a-299a-402c-b19f-962c2904b329.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_o
+[19-04-2022 07:55:53] Checking spr_OptC_o.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_o/spr_OptC_o.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_o/spr_OptC_o.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game/spr_OptC" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_o/spr_OptC_o.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_OptC_o
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_o/layers
+[19-04-2022 07:55:53] Checking 2b26cc89-a85b-4edb-8ccd-7bf261767c0d.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_o/layers
+[19-04-2022 07:55:53] Checking 2b26cc89-a85b-4edb-8ccd-7bf261767c0d
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_o/layers/2b26cc89-a85b-4edb-8ccd-7bf261767c0d
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_o/layers/2b26cc89-a85b-4edb-8ccd-7bf261767c0d
+[19-04-2022 07:55:53] Checking 0fd7af5d-7af1-4f1f-907d-56854a7fe983.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_x
+[19-04-2022 07:55:53] Checking spr_OptC_x.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_x/spr_OptC_x.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_x/spr_OptC_x.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game/spr_OptC" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_x/spr_OptC_x.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_OptC_x
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_x/layers
+[19-04-2022 07:55:53] Checking 53a31d1c-091b-40f6-8928-2d4d9be4a37f.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_x/layers
+[19-04-2022 07:55:53] Checking 53a31d1c-091b-40f6-8928-2d4d9be4a37f
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_x/layers/53a31d1c-091b-40f6-8928-2d4d9be4a37f
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptC_x/layers/53a31d1c-091b-40f6-8928-2d4d9be4a37f
+[19-04-2022 07:55:53] Checking 3fdfd625-c205-421d-9079-106dfdfc8d84.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD
+[19-04-2022 07:55:53] Checking spr_OptD.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD/spr_OptD.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD/spr_OptD.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game/spr_OptD" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD/spr_OptD.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_OptD
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD/layers
+[19-04-2022 07:55:53] Checking f4b7d05e-16fe-4237-93cf-360b9a74ebfa.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD/layers
+[19-04-2022 07:55:53] Checking f4b7d05e-16fe-4237-93cf-360b9a74ebfa
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD/layers/f4b7d05e-16fe-4237-93cf-360b9a74ebfa
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD/layers/f4b7d05e-16fe-4237-93cf-360b9a74ebfa
+[19-04-2022 07:55:53] Checking 71ab0c0f-c877-46bd-8874-9a08e32ae7ba.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_o
+[19-04-2022 07:55:53] Checking spr_OptD_o.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_o/spr_OptD_o.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_o/spr_OptD_o.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game/spr_OptD" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_o/spr_OptD_o.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_OptD_o
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_o/layers
+[19-04-2022 07:55:53] Checking 1b466f55-2c18-46ce-ad45-2727e65a7c57.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_o/layers
+[19-04-2022 07:55:53] Checking 1b466f55-2c18-46ce-ad45-2727e65a7c57
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_o/layers/1b466f55-2c18-46ce-ad45-2727e65a7c57
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_o/layers/1b466f55-2c18-46ce-ad45-2727e65a7c57
+[19-04-2022 07:55:53] Checking 2fe9b9d3-1993-4b1a-b128-a62298c29733.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_x
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_x/layers
+[19-04-2022 07:55:53] Checking 992b8782-a164-4b74-96d5-a17463854bf7.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_x/layers
+[19-04-2022 07:55:53] Checking 992b8782-a164-4b74-96d5-a17463854bf7
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_x/layers/992b8782-a164-4b74-96d5-a17463854bf7
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_OptD_x/layers/992b8782-a164-4b74-96d5-a17463854bf7
+[19-04-2022 07:55:53] Checking b492f235-9df8-4024-b0df-1dc5515042e3.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_question
+[19-04-2022 07:55:53] Checking spr_question.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_question/spr_question.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_question/spr_question.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Game" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_question/spr_question.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_question
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_question/layers
+[19-04-2022 07:55:53] Checking b2b90130-d20b-458e-a7e2-8f90a0624b43.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_question/layers
+[19-04-2022 07:55:53] Checking b2b90130-d20b-458e-a7e2-8f90a0624b43
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_question/layers/b2b90130-d20b-458e-a7e2-8f90a0624b43
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_question/layers/b2b90130-d20b-458e-a7e2-8f90a0624b43
+[19-04-2022 07:55:53] Checking d9b7b8de-38c5-462b-ab85-84d3cf8c5bd0.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry/layers
+[19-04-2022 07:55:53] Checking ff545e8d-dc6d-43e1-91b4-1a948c135021.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry/layers
+[19-04-2022 07:55:53] Checking ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry/layers/ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry/layers/ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Checking 9bfea28c-491d-46b0-b385-c5345d5e20fc.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry_hover
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry_hover/layers
+[19-04-2022 07:55:53] Checking ff545e8d-dc6d-43e1-91b4-1a948c135021.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry_hover/layers
+[19-04-2022 07:55:53] Checking ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry_hover/layers/ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_retry_hover/layers/ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Checking 9bfea28c-491d-46b0-b385-c5345d5e20fc.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start/layers
+[19-04-2022 07:55:53] Checking ff545e8d-dc6d-43e1-91b4-1a948c135021.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start/layers
+[19-04-2022 07:55:53] Checking ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start/layers/ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start/layers/ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Checking 9bfea28c-491d-46b0-b385-c5345d5e20fc.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start_hover
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start_hover/layers
+[19-04-2022 07:55:53] Checking ff545e8d-dc6d-43e1-91b4-1a948c135021.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start_hover/layers
+[19-04-2022 07:55:53] Checking ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start_hover/layers/ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_start_hover/layers/ff545e8d-dc6d-43e1-91b4-1a948c135021
+[19-04-2022 07:55:53] Checking 9bfea28c-491d-46b0-b385-c5345d5e20fc.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_titlescreen
+[19-04-2022 07:55:53] Checking spr_titlescreen.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_titlescreen/spr_titlescreen.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_titlescreen/spr_titlescreen.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Menu/Bg" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_titlescreen/spr_titlescreen.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_titlescreen
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_titlescreen/layers
+[19-04-2022 07:55:53] Checking 910cb9a4-e25c-4de5-a2a8-ab665f80544e.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_titlescreen/layers
+[19-04-2022 07:55:53] Checking 910cb9a4-e25c-4de5-a2a8-ab665f80544e
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_titlescreen/layers/910cb9a4-e25c-4de5-a2a8-ab665f80544e
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_titlescreen/layers/910cb9a4-e25c-4de5-a2a8-ab665f80544e
+[19-04-2022 07:55:53] Checking 33f8f189-a5e5-4f08-9450-f6d38c4ff285.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_tryagain
+[19-04-2022 07:55:53] Checking spr_tryagain.yy
+[19-04-2022 07:55:53] Parsing C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_tryagain/spr_tryagain.yy
+[19-04-2022 07:55:53] Reading C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_tryagain/spr_tryagain.yy
+[19-04-2022 07:55:53] Par: "folders/Sprites/Menu/Bg" at dir: "C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_tryagain/spr_tryagain.yy"
+[19-04-2022 07:55:53] Found Sprite: spr_tryagain
+[19-04-2022 07:55:53] Checking layers
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_tryagain/layers
+[19-04-2022 07:55:53] Checking 608ac4d5-208f-4814-82ca-515a588c1439.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_tryagain/layers
+[19-04-2022 07:55:53] Checking 608ac4d5-208f-4814-82ca-515a588c1439
+[19-04-2022 07:55:53] Directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_tryagain/layers/608ac4d5-208f-4814-82ca-515a588c1439
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/sprites/spr_tryagain/layers/608ac4d5-208f-4814-82ca-515a588c1439
+[19-04-2022 07:55:53] Checking dc1ccf8d-2ee0-4e25-ada4-900926d656ce.png
+[19-04-2022 07:55:53] Checking 501b2d3b-6a3e-4f81-a5ac-067f7a7594da.png
+[19-04-2022 07:55:53] Checking 27188a1f-95ec-45ed-9caf-ac0a873e139a.png
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/tilesets
+[19-04-2022 07:55:53] Current parent directory: C:/Users/Dell/Documents/GameMakerStudio2/atmhpa/timelines
+[19-04-2022 07:55:53] Moving files to trash...
+[19-04-2022 07:55:53] Files yeeted successfully!
+[19-04-2022 07:55:53] Generating YYP...
+[19-04-2022 07:55:53] atmhpa.yyp created successfully!
